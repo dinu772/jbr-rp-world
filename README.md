@@ -89,3 +89,21 @@ JBR RP WORLD
     ❤️ से बनाया गया JBR KING DINU द्वारा | AI की मदद से
   </footer>
 </body></html>
+<!DOCTYPE html><html lang="hi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JBR RP WORLD - Indian Style Open World Game</title>  <!-- SEO Meta Tags -->  <meta name="description" content="JBR RP WORLD - एक भारतीय स्टाइल का Open World RP Game, जिसमें है Organizations, Gangs, Realistic System और बहुत कुछ! अभी डाउनलोड करें।">
+  <meta name="keywords" content="JBR RP WORLD, Indian RP Game, GTA India, Open World Game, RP Game, JBR RP, Hindi Game, Dinu Meghwanshi, JBR King">
+  <meta name="author" content="Dinu Meghwanshi">  <!-- Social Media Preview Tags -->  <meta property="og:title" content="JBR RP WORLD - Indian Style RP Game" />
+  <meta property="og:description" content="खेलें भारत का सबसे बेहतरीन RP Game - JBR RP WORLD!" />
+  <meta property="og:image" content="https://yourdomain.com/logo.jpg" />
+  <meta property="og:url" content="https://yourdomain.com" />  <!-- Favicon -->  <link rel="icon" href="/favicon.ico" type="image/x-icon">
+</head>
+<body>
+  <h1>Welcome to JBR RP WORLD</h1>
+  <p>यहां आप भारत का सबसे यूनिक और रियलिस्टिक RP अनुभव पाएंगे। गेम में आपको मिलेंगे: ऑर्गनाइजेशन, फैमिली सिस्टम, पुलिस, गैंग्स, हथियार, और ढेर सारी मजेदार चीजें।</p>  <!-- Future Contact/Link Sections (currently removed as requested) -->  <!-- <a href="contact.html">Contact Us</a> -->  <footer>
+    <p>&copy; 2025 JBR RP WORLD | Founder: Dinu Meghwanshi</p>
+  </footer>
+</body>
+</html>
