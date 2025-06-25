@@ -1,4 +1,4 @@
-# jbr-rp-world
+# https://dinu772.github.io/jbr-rp-world/
 JBR RP WORLD 
 <!DOCTYPE html><html lang="en"><head>
   <meta charset="UTF-8" />
