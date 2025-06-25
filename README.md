@@ -84,7 +84,6 @@ JBR RP WORLD
   </section>  <section id="download">
     <h2>Download</h2>
     <p>जल्द आ रहा है — Android और iOS पर</p>
-    <a class="button" href="https://t.me/Shoppingzoono" target="_blank">Join Telegram for Updates</a>
   </section>  <footer>
     ❤️ से बनाया गया JBR KING DINU द्वारा | AI की मदद से
   </footer>
