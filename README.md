@@ -106,3 +106,9 @@ JBR RP WORLD
   </footer>
 </body>
 </html>
+<head>
+  <title>JBR RP World - Indian RP Game by Dinu</title>
+  <meta name="description" content="JBR RP World - An Indian-style RP Grand game built by JBR KING DINU. Featuring gangs, government, heists, vehicles & more. Play now!">
+  <meta name="keywords" content="RP GRAND, JBR RP WORLD, Indian RP game, GTA India style, Dinu Meghwanshi">
+  <meta name="author" content="Dinu Meghwanshi">
+</head>
